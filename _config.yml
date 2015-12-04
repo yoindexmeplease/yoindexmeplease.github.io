@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://yoindexmeplease.github.io
+title: Awesome indexing place
+email: heyindexmeplease@gmail.com
+author: Martin Indexme
+description: My awesome new site to index stuff
+paginate: 3
+google_analytics: 
